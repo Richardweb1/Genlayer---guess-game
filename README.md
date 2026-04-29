@@ -16,7 +16,7 @@ This project demonstrates how lightweight, interactive games can be deployed onc
 
 This project is designed as a *starter example for builders**, similar in spirit to early experimental games in emerging ecosystems like GenLayer.
 
----
+--
 
 ## 🧠 Concept
 
