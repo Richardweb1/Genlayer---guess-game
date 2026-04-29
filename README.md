@@ -14,7 +14,7 @@ This project demonstrates how lightweight, interactive games can be deployed onc
 * If they guess correctly, they win the contract balance
 * The game runs fully onchain
 
-This project is designed as a **starter example for builders**, similar in spirit to early experimental games in emerging ecosystems like GenLayer.
+This project is designed as a *starter example for builders**, similar in spirit to early experimental games in emerging ecosystems like GenLayer.
 
 ---
 
