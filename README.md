@@ -8,7 +8,7 @@ This project demonstrates how lightweight, interactive games can be deployed onc
 
 ## 🚀 Overview
 
-**Base Guess Game** is a smart contract game where players attempt to guess a hidden number.
+**Base Guess Game** is a smart contract game where players attempt to guess a hidden number
 
 * Players pay a small fee to participate
 * If they guess correctly, they win the contract balance
