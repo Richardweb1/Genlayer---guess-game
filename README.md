@@ -20,7 +20,7 @@ This project is designed as a **starter example for builders**, similar in spiri
 
 ## 🧠 Concept
 
-The goal is to explore:
+The goal is to explore
 
 * Simple onchain game mechanics
 * Player interaction through transactions
